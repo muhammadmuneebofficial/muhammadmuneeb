@@ -103,12 +103,18 @@ header{
 	color: #0167F7;
 }
 .heroareCol h1{
+	font-family: 'Unbounded', sans-serif;
 	font-size: 98px;
 	line-height: 120px;
 	font-weight: 600;
 	color: #011A3D;
 	text-align: center;
 }
+.heroareCol h1 span{
+	font-weight: 800;
+	color: #0167F7;
+}
+
 
 
 
