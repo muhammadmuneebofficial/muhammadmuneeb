@@ -8,6 +8,10 @@
 
 .topbarSec .topbarContainer{
 	background: #011A3D;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .topbarSec .topbarContainer h4{
 	font-family: 'Montserrat', sans-serif;
