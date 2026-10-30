@@ -65,13 +65,14 @@ header{
 	color: #374B67;
 	text-decoration: none;
 }
-.headerColBtn button{
+.headerColBtn a{
 	padding: 24px 42px;
 	border-radius: 50px;
 	background: #011A3D;
 	font-size: 12px;
 	line-height: 12px;
 	color: #fff;
+	text-decoration: none;
 }
 
 
