@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Unbounded:wght@200..900&display=swap');
 
 
-*{
+body{
 	margin: 0 !important;
 	padding: 0 !important;
 }
@@ -83,12 +83,21 @@ header{
 
 
 
-
-
-
-
-
-
+.heroareSec{
+	padding: 120px 0;
+}
+.heroareSec .heroareCol .heroareaBadge{
+	padding: 10px 30px;
+	border: 2px solid #0167F7;
+	border-radius: 50px;
+}
+.heroareSec .heroareCol .heroareaBadge h6{
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	line-height: 16px;
+	color: #0167F7;
+}
 
 
 
