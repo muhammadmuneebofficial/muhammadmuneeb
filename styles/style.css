@@ -39,12 +39,12 @@ header{
 .headerCol{
 	width: 33.33% !important;
 }
-.headerCol .headerColNav{
+.headerCol.headerColNav{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
-.headerCol .headerColBtn{
+.headerCol.headerColBtn{
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
