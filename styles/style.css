@@ -130,6 +130,8 @@ header{
 	line-height: 18px;
 	padding: 32px 52px;
 	background: linear-gradient(to right, #0167F7, #013C91);
+	border-radius: 50px;
+	text-decoration: none;
 }
 
 
