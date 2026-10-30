@@ -109,6 +109,7 @@ header{
 	font-weight: 600;
 	color: #011A3D;
 	text-align: center;
+	text-transform: uppercase;
 }
 .heroareCol h1 span{
 	font-weight: 800;
