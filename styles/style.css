@@ -154,6 +154,7 @@ header{
 	margin-top: 30px !important;
 }
 .heroareaLineBox{
+	display: block !important;
 	position: relative !important;
 }
 .heroareaLineBox img {
