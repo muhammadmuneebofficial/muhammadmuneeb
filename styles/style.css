@@ -153,7 +153,15 @@ header{
 	text-decoration: none;
 	margin-top: 30px !important;
 }
-
+.heroareaLineBox{
+	position: relative;
+}
+.heroareaLineBox img {
+	position: absolute;
+	width: 505px;
+	left: 5px;
+	bottom: 3%;
+}
 
 
 
