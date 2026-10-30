@@ -96,17 +96,12 @@ header{
 	border: 2px solid #0167F7;
 	border-radius: 50px;
 }
-.heroareSec .heroareCol .heroareaBadge{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	gap: 10px;
-}
 .heroareSec .heroareCol .heroareaBadge span{
 	width: 10px;
 	height: 10px;
 	border-radius: 50px;
 	background: #0167F7;
+	display: inline-block;
 }
 .heroareSec .heroareCol .heroareaBadge h6{
 	font-size: 16px;
@@ -114,6 +109,7 @@ header{
 	font-weight: 800;
 	line-height: 16px;
 	color: #0167F7;
+	display: inline-block;
 }
 .heroareCol{
 	width: 1240px;
