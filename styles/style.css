@@ -34,7 +34,7 @@ header{
 	height: 45px;
 }
 .headerCol nav ul{
-	list-style-type: none;
+	list-style: none;
 }
 .headerCol nav ul li a{
 	font-size: 16px;
