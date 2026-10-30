@@ -6,7 +6,7 @@ body{
 	margin: 0 !important;
 	padding: 0 !important;
 }
-h1,h2,h3,h4,h5,h6,a{
+h1,h2,h3,h4,h5,h6,a,p{
 	margin: 0 !important;
 }
 
@@ -102,6 +102,12 @@ header{
 	line-height: 16px;
 	color: #0167F7;
 }
+.heroareCol{
+	width: 1240px;
+	text-align: center;
+	max-width: 100%;
+	margin: 0 auto !important;
+}
 .heroareCol h1{
 	font-family: 'Unbounded', sans-serif;
 	font-size: 98px;
@@ -110,6 +116,7 @@ header{
 	color: #011A3D;
 	text-align: center;
 	text-transform: uppercase;
+	margin-top: 40px !important;
 }
 .heroareCol h1 span{
 	font-weight: 800;
@@ -121,6 +128,7 @@ header{
 	color: #384F70;
 	font-size: 18px;
 	line-height: 18px;
+	margin-top: 30px !important;
 }
 .heroareCol a{
 	display: inline-block !important;
@@ -133,6 +141,7 @@ header{
 	background: linear-gradient(to right, #0167F7, #013C91);
 	border-radius: 50px;
 	text-decoration: none;
+	margin-top: 30px !important;
 }
 
 
