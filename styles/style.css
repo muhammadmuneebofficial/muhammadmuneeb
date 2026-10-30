@@ -102,7 +102,13 @@ header{
 	line-height: 16px;
 	color: #0167F7;
 }
-
+.heroareCol h1{
+	font-size: 98px;
+	line-height: 120px;
+	font-weight: 600;
+	color: #011A3D;
+	text-align: center;
+}
 
 
 
