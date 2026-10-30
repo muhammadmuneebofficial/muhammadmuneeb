@@ -123,6 +123,7 @@ header{
 	line-height: 18px;
 }
 .heroareCol a{
+	display: inline-block !important;
 	font-family: 'Unbounded', sans-serif;
 	font-weight: 500;
 	color: #fff;
