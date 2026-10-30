@@ -65,7 +65,7 @@ header{
 	color: #374B67;
 	text-decoration: none;
 }
-.headerColBtn a{
+.headerColBtn button{
 	padding: 24px 42px;
 	border-radius: 50px;
 	background: #011A3D;
