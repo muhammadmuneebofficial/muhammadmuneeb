@@ -37,7 +37,7 @@ header{
 	max-width: 100%;
 }
 .headerCol{
-	width: 33.33%;
+	width: 33.33% !important;
 }
 .headerCol .headerColNav{
 	display: flex;
