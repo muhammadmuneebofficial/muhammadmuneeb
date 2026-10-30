@@ -36,6 +36,19 @@ header{
 	width: 100%;
 	max-width: 100%;
 }
+.headerCol{
+	width: 33.33%;
+}
+.headerCol .headerColNav{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.headerCol .headerColBtn{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
 .headerCol img{
 	height: 45px;
 }
